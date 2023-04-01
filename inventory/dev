@@ -1,4 +1,4 @@
-[nginx LB]
+[nginx_LB]
 172.31.43.64 ansible_ssh_user='ubuntu'
 
 
