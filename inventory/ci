@@ -12,4 +12,4 @@
 
 
 [db]
-172.31.45.164 ansible_ssh_user='ubuntu'
+172.31.2.128 ansible_ssh_user='ubuntu'
